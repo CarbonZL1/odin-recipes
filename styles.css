@@ -1,0 +1,14 @@
+.top-logo {
+    height: 200px;
+    width: auto;
+}
+
+.title {
+    color: rgb(0, 110, 255);
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.recipe-links {
+    background-color: lightblue;
+}
